@@ -1,0 +1,9 @@
+{
+  "name": "toolnova-studio-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ToolNova Studio with secure Netlify Functions for OpenAI text and image features",
+  "dependencies": {
+    "openai": "^5.12.2"
+  }
+}
